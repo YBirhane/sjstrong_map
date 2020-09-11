@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUSINESS_ID": 0,
+        "NAME": "Adaora Beauty Supply",
+        "ADDRESS": "965 Park Ave, San Jose, CA 95126",
+        "DESCRIPTIO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.907900, 37.326210]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUSINESS_ID": 1,
+        "NAME": "Ancient Stones Mineral Makeup",
+        "ADDRESS": "440 W Julian St #210, San Jose, CA 95110",
+        "GOOGLE_DEST":"440+W+Julian+St+#210+San+Jose+CA+95110",
+        "DESCRIPTIO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.901520, 37.336320]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUSINESS_ID": 2,
+        "NAME": "BackAYard",
+        "ADDRESS": "80 N Market St, San Jose, CA 95113",
+        "GOOGLE_DEST":"80+N+Market+St+San+Jose+CA+95113",
+        "DESCRIPTIO": "With the best jerk chicken platter in town, experience a taste of the Carribean at Back-A-Yard. You can also order Jamaican patties, salad “yard” bowls, and dessert. Don’t skip the sweet potato pie or key lime pie. You can even purchase their famous sauces to go. Locations in DTSJ, Capitol Expy, North SJ, Menlo Park & Campbell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.892601, 37.336731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUSINESS_ID": 3,
+        "NAME": "The Barbers Inc",
+        "ADDRESS": "332 E Santa Clara St, San Jose, CA 95112",
+        "GOOGLE_DEST": "332+E+Santa+Clara+St+San+Jose+CA+95112",
+        "DESCRIPTIO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.886680, 37.343730]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUSINESS_ID": 4,
+        "NAME": "Black & Brown",
+        "ADDRESS": "751 W San Carlos St, San Jose, CA 95126",
+        "GOOGLE_DEST":"751+W+San+Carlos+St+San+Jose+CA+95126",
+        "DESCRIPTIO": "vintage clothes! storefront closed. shop online at website"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.904550, 37.324220]
+      }
+    }
+  ]
+}
