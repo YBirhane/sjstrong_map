@@ -1,6 +1,6 @@
 # Google Maps in React
 
-YouTube video can be found here: [https://youtu.be/Pf7g32CwX_s](https://youtu.be/Pf7g32CwX_s)
+Modified from tutorial here: [https://youtu.be/Pf7g32CwX_s](https://youtu.be/Pf7g32CwX_s)
 
 ## Running Locally
 
